@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Hacker News Books",
+    "url": "https://hackernewsbooks.com",
+    "icon": "https://icons.duckduckgo.com/ip3/hackernewsbooks.com.ico",
+    "slug": "hacker-news-books",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 263,
+    "timeDay": 263,
+    "timeWeek": 263,
+    "timeMonth": 263,
+    "timeYear": 263,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Blog",
+    "url": "https://blog.hackernewsbooks.com",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.hackernewsbooks.com.ico",
+    "slug": "blog",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 296,
+    "timeDay": 296,
+    "timeWeek": 296,
+    "timeMonth": 296,
+    "timeYear": 296,
+    "dailyMinutesDown": {}
+  }
+]

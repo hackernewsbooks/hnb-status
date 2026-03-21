@@ -1,0 +1,35 @@
+owner: hackernewsbooks
+repo: hnb-status
+
+assignees:
+  - hackernewsbooks
+
+sites:
+  - name: Hacker News Books
+    url: https://hackernewsbooks.com
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+
+  - name: Blog
+    url: https://blog.hackernewsbooks.com
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+
+status-website:
+  cname: status.hackernewsbooks.com
+  name: Hacker News Books Status
+  logoUrl: https://static.hackernewsbooks.com/hnb_icon_220x220.png
+  favicon: https://static.hackernewsbooks.com/favicon.png
+  navbar:
+    - title: Status
+      href: /
+    - title: Main Site
+      href: https://hackernewsbooks.com
+    - title: Blog
+      href: https://blog.hackernewsbooks.com
+    - title: GitHub
+      href: https://github.com/hackernewsbooks/hnb-status
+  introTitle: "**Hacker News Books** status page"
+  introMessage: Uptime and response-time monitoring for Hacker News Books and related services.
