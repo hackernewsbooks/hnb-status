@@ -25,3 +25,7 @@
   --highlight: #f69656;
   --shadow-color: rgba(0, 0, 0, 0.35);
 }
+nav img {
+  max-height: 28px;
+  width: auto;
+}
