@@ -20,8 +20,8 @@ sites:
 status-website:
   cname: status.hackernewsbooks.com
   name: Hacker News Books Status
-  logoUrl: https://static.hackernewsbooks.com/hnb_icon_220x220.png
-  favicon: https://static.hackernewsbooks.com/favicon.png
+  logoUrl: https://hackernewsbooks.com/images/hnb_logo.png
+  favicon: https://hackernewsbooks.com/favicon.ico
   navbar:
     - title: Status
       href: /
