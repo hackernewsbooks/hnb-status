@@ -22,6 +22,7 @@ status-website:
   name: Hacker News Books Status
   logoUrl: https://hackernewsbooks.com/static/images/hnb_orange_logo.png
   favicon: https://hackernewsbooks.com/favicon.ico
+  themeUrl: https://status.hackernewsbooks.com/hnb-theme.css
   navbar:
     - title: Status
       href: /
