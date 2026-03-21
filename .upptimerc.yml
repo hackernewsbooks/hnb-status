@@ -18,19 +18,41 @@ sites:
     ipv6: true
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.hackernewsbooks.com
+
+  name: Hacker News Books Status
+  theme: dark
+
+  logoUrl: https://static.hackernewsbooks.com/hnb_logo_horizontal.png
+  faviconPng: /favicon.png
+
+  metaDescription: Real-time status and uptime monitoring for Hacker News Books.
+  metaImage: https://static.hackernewsbooks.com/hnb_icon_220x220.png
+
+  introTitle: "**Hacker News Books** status"
+  introMessage: |
+    Real-time status and uptime monitoring for Hacker News Books.
+
+    Check the health of the main site and related services here before diving into the latest books, reviews, and weekly rankings.
+
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Main Site
+      href: https://hackernewsbooks.com
+    - title: Reviews
+      href: https://blog.hackernewsbooks.com/reviews/
+    - title: Changelog
+      href: https://blog.hackernewsbooks.com/changelog/
+    - title: Newsletter
+      href: https://newsletter.hackernewsbooks.com
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  i18n:
+    allSystemsOperational: "All systems operational"
+    activeIncidents: "Active incidents"
+    degradedPerformance: "Degraded performance"
+    partialOutage: "Partial outage"
+    completeOutage: "Complete outage"
+    incidentReport: "Incident report"
+    footer: "Built for Hacker News Books with [Upptime](https://upptime.js.org) • [Open source]($REPO)"
+
