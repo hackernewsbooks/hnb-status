@@ -4,18 +4,20 @@
     "url": "https://hackernewsbooks.com",
     "icon": "https://icons.duckduckgo.com/ip3/hackernewsbooks.com.ico",
     "slug": "hacker-news-books",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 317,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
-    "dailyMinutesDown": {}
+    "time": 241,
+    "timeDay": 260,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
+    "dailyMinutesDown": {
+      "2026-03-27": 0
+    }
   },
   {
     "name": "Blog",
