@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hackernewsbooks.com.ico",
     "slug": "hacker-news-books",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.73%",
+    "uptimeDay": "91.08%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.73%",
     "time": 241,
-    "timeDay": 260,
-    "timeWeek": 241,
+    "timeDay": 226,
+    "timeWeek": 239,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2026-03-27": 0
+      "2026-03-28": 68,
+      "2026-03-27": 60
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 318,
-    "timeWeek": 387,
-    "timeMonth": 387,
-    "timeYear": 387,
+    "time": 383,
+    "timeDay": 326,
+    "timeWeek": 394,
+    "timeMonth": 383,
+    "timeYear": 383,
     "dailyMinutesDown": {}
   }
 ]
